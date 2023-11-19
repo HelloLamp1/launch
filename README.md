@@ -9,7 +9,7 @@ Please be aware that there is no guarantee a network will start from this recomm
 The recommended genesis file is `genesis.json`. It has the following SHA256 hash:
 
 ```
-$ shasum -a 256 bor/genesis.json 
+$ shasueem -a 256 bor/genesis.json 
 808755d2738f8170d5673f6a5955687c76e472b31346b61f9e6f8e49244b9854  bor/genesis.json
 
 $ shasum -a 256 heimdall/config/genesis.json
